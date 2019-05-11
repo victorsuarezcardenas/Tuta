@@ -1,0 +1,212 @@
+{
+    "cards": {
+        "golds": [
+            {
+                "number": "1",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "2",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "3",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "4",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "5",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "6",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "7",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "10",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "11",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "12",
+                "image": "",
+                "vale": ""
+            }
+        ],
+        "glasses": [
+            {
+                "number": "1",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "2",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "3",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "4",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "5",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "6",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "7",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "10",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "11",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "12",
+                "image": "",
+                "vale": ""
+            }
+        ],
+        "swords": [
+            {
+                "number": "1",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "2",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "3",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "4",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "5",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "6",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "7",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "10",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "11",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "12",
+                "image": "",
+                "vale": ""
+            }
+        ],
+        "club": [
+            {
+                "number": "1",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "2",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "3",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "4",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "5",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "6",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "7",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "10",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "11",
+                "image": "",
+                "vale": ""
+            },
+            {
+                "number": "12",
+                "image": "",
+                "vale": ""
+            }
+        ]
+    }
+}
