@@ -1,8 +1,8 @@
 class Card
 
-    def initialize(number, type, image, value)
+    def initialize(id, number, type, value)
+        @id = id
         @number = number
         @type = type
-        @image = image
         @value = value
     end
