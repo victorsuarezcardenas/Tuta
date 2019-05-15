@@ -1,0 +1,212 @@
+{
+  "cards": {
+    "golds": [
+      {
+        "number": "1",
+        "image": "",
+        "value": "11"
+      },
+      {
+        "number": "2",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "3",
+        "image": "",
+        "value": "10"
+      },
+      {
+        "number": "4",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "5",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "6",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "7",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "10",
+        "image": "",
+        "value": "2"
+      },
+      {
+        "number": "11",
+        "image": "",
+        "value": "3"
+      },
+      {
+        "number": "12",
+        "image": "",
+        "value": "4"
+      }
+    ],
+    "glasses": [
+      {
+        "number": "1",
+        "image": "",
+        "value": "11"
+      },
+      {
+        "number": "2",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "3",
+        "image": "",
+        "value": "10"
+      },
+      {
+        "number": "4",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "5",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "6",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "7",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "10",
+        "image": "",
+        "value": "2"
+      },
+      {
+        "number": "11",
+        "image": "",
+        "value": "3"
+      },
+      {
+        "number": "12",
+        "image": "",
+        "value": "4"
+      }
+    ],
+    "swords": [
+      {
+        "number": "1",
+        "image": "",
+        "value": "11"
+      },
+      {
+        "number": "2",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "3",
+        "image": "",
+        "value": "10"
+      },
+      {
+        "number": "4",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "5",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "6",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "7",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "10",
+        "image": "",
+        "value": "2"
+      },
+      {
+        "number": "11",
+        "image": "",
+        "value": "3"
+      },
+      {
+        "number": "12",
+        "image": "",
+        "value": "4"
+      }
+    ],
+    "club": [
+      {
+        "number": "1",
+        "image": "",
+        "value": "11"
+      },
+      {
+        "number": "2",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "3",
+        "image": "",
+        "value": "10"
+      },
+      {
+        "number": "4",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "5",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "6",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "7",
+        "image": "",
+        "value": "0"
+      },
+      {
+        "number": "10",
+        "image": "",
+        "value": "2"
+      },
+      {
+        "number": "11",
+        "image": "",
+        "value": "3"
+      },
+      {
+        "number": "12",
+        "image": "",
+        "value": "4"
+      }
+    ]
+  }
+}
