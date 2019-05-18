@@ -103,14 +103,17 @@ class Game
     end
     players_win = @players.sort_by(&:points).reverse![0]
     puts 'GANADOR--------GANADOR---------GANADOR----'
-    puts "Nombre: #{players_win.name} Puntos: #{players_win.points}"
+    puts "Nombre: #{players_win.name} || Puntos: #{players_win.points}"
     #players_win.cards_wins.each do |cards|
     #  puts cards.id
     #end
     @players.each do |player|
+      puts ''
       puts player.name
+      puts 'Cartas: '
       player.cards_wins.each do |cards|
-        puts "Carta: #{cards.id}"
+        print "#{cards.id}"
+        print ' || '
       end
     end
   end
@@ -203,9 +206,10 @@ class Game
   def throw_card_player(player)
     puts "Carta del triunfo: Numero: #{@trump_card.number}, Tipo: #{@trump_card.type}"
     puts "Turno para el jugador: #{player.name}"
-    puts "----------Sus Cartas--------------"
+    puts "-------------------------------------Sus Cartas-----------------------------------------"
     player.cards.each do |card|
-      puts card.id
+      print card.id
+      print ' || '
     end
     card_valid = true
     while card_valid
@@ -304,6 +308,8 @@ class Game
   #
   # player: El player que tiene que lanzar la carta
   def get_card(player, card_valid)
+    puts ''
+    puts '----------------------------------------------------------------------------------------'
     puts 'Digite el id de la carta a lanzar'
     card_id = gets.chomp.to_s
     card = search_card(player, card_id)
